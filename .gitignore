@@ -18,3 +18,5 @@ build/dependencies/build
 edu/dependencies/.gradle
 edu/dependencies/build
 stale_outputs_checked
+config.bat
+node_modules
